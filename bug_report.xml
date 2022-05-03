@@ -1,2 +1,12 @@
 <xml>
-  <p>bug_report.xml</p>
+  <ID>ID</ID>
+	<Summary>Summary</Summary>
+	<Description>Description</Description>
+	<Actual_result>Actual result</Actual_result>
+	<Expected_result>Expected result</Expected_result>
+	<Attachments>Attachments</Attachments>
+  <Priority>Priority</Priority>
+  <Severity>Severity</Severity>
+  <Status>Status</Status>
+<xml>
+  
