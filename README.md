@@ -62,7 +62,7 @@ vim new.xml
         <Age>34</Age>
         <Number_of_pets>1</Number_of_pets>
         <Future_desired_salary>50000$</Future_desired_salary>
-<xml>
+</xml>
 ```
 *выйти из vim нажатием Esc :wq Enter*
 
@@ -88,7 +88,7 @@ vim preferences.xml
         <Favorite_food>Fast Food</Favorite_food>
         <Favorite_time_of_the_year>Summer</Favorite_time_of_the_year>
         <Side_you_would_like_tovisit>USA</Side_you_would_like_tovisit>
-<xml>
+</xml>
 ```
 *выйти из vim нажатием Esc :wq Enter*
 
@@ -126,7 +126,7 @@ vim skills.xml
         <skill_25>Нагрузочное тестирование в Jmeter.</skill_25>
         <skill_26>Методология разработки Scrum.</skill_26>
         <skill_27>Python. (Изучение основ. Создание клиент серверного приложения)</skill_27>
-<xml>
+</xml>
 ```
 *выйти из vim нажатием Esc :wq Enter*
 
@@ -159,7 +159,7 @@ git push
 	<Priority>Priority</Priority>
 	<Severity>Severity</Severity>
 	<Status>Status</Status>
-<xml>
+</xml>
 ```
 
 #### 37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
