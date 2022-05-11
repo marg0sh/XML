@@ -21,7 +21,7 @@ https://github.com/marg0sh/TXT
 
 ## XML
 #### 21. Создать внешний репозиторий c названием XML.
-*веб интерфейс github.com, залогинитьс, перейти в Repositories, создание новой репозитории New, имя XML, Add a ReadMe file, Create repository. *
+*веб интерфейс github.com, залогинитьс, перейти в Repositories, создание новой репозитории New, имя XML, Add a ReadMe file, Create repository*
 
 #### 22. Клонировать репозиторий XML на локальный компьютер.
 *в веб интерфейсе Code - HTTPS - COPY*
